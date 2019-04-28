@@ -1,0 +1,64 @@
+{
+    "items":{
+        "VIP":{
+            "price":30000,
+            "name":"VIP",
+            "Description":"Покупка роли VIP. Роль для Доступа ко всем комнатам",
+            "Time_remaining":1382400000,
+            "Role_required":"none",
+            "Role_given":"@VIP",
+            "Role_removed":"none",
+            "Reply_message":"none"
+        },
+        "DjRole":{
+            "price":15000,
+            "name":"DjRole",
+            "Description":"Получения роли DJ для доступа к командам муз.бота",
+            "Time_remaining":2592000000,
+            "Role_required":"none",
+            "Role_given":"@DjRole",
+            "Role_removed":"none",
+            "Reply_message":"none"
+        },
+        "GodMode":{
+            "price":8000,
+            "name":"GodMode",
+            "Description":"Покупка роли GodMode для уникального цвета в чате.",
+            "Time_remaining":604800000,
+            "Role_required":"none",
+            "Role_given":"@GodMode",
+            "Role_removed":"none",
+            "Reply_message":"none"
+        },
+        "Комната":{
+            "price":15000,
+            "name":"Комната",
+            "Description":"Покупка собственной комнаты на сервере. После покупки писать ?sug Комната [название комнаты]",
+            "Time_remaining":"No time limit",
+            "Role_required":"none",
+            "Role_given":"none",
+            "Role_removed":"none",
+            "Reply_message":"none"
+        },
+        "smile":{
+            "price":10000,
+            "name":"smile",
+            "Description":"Добавление своего смалика на сервер ( +анимированные )",
+            "Time_remaining":"No time limit",
+            "Role_required":"none",
+            "Role_given":"none",
+            "Role_removed":"none",
+            "Reply_message":"none"
+        },
+        "Размут":{
+            "price":10000,
+            "name":"Размут",
+            "Description":"Размут своего аккаунта",
+            "Time_remaining":"No time limit",
+            "Role_required":"none",
+            "Role_given":"none",
+            "Role_removed":"@Muted",
+            "Reply_message":"none"
+        }
+    }
+}
